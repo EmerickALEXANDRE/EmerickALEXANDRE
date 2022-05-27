@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmerickALEXANDRE
 - 👀 I’m interested in ai_ar_xr_vr_cryptocurrencies
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & swift
 - 💞️ I’m looking to collaborate on ai_ar_xr_vr_projects
 - 📫 How to reach me = e.alexandre@me.com
 
